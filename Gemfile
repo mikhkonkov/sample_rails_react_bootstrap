@@ -29,6 +29,8 @@ gem 'spring',        group: :development
 gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
 gem 'bower-rails', '~> 0.9.2'
 
+gem 'bootstrap-sass', '~> 3.3.4'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
